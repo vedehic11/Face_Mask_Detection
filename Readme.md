@@ -15,7 +15,7 @@ python3 detect_mask_image.py --image images/pic1.jpeg --model ResNet50_v2/ResNet
 
 ## :key:&nbsp; Result 
 
-![alt text](Readme_images/Matrix.png)
+![alt text](1.PNG)
 
 ### Training Loss and Accuracy 
-![alt text](Readme_images/Graph.png)
+![alt text](2.PNG)
